@@ -1,18 +1,16 @@
-#section1, #section2, #section3 {
+.section {
     scroll-margin-top: 151px;
 }
 
-#section1 {
+#section1, #section3 {
     background-color: rgb(245, 240, 230);
 }
 
-#section2 {
+#section2, #section4 {
     background-image: url(https://www.ucsd.edu/_resources/img/bg-orbs-1.jpg);
+    color: white;
 }
 
-#section3 {
-    background-color: rgb(245, 240, 230);
-}
 
 .section-img {
     width: 100%
